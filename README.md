@@ -11,7 +11,7 @@
 
 ## 🌟 What is EatCode?
 
-![EatCode](https://i.imgur.com/cUdgL3r.png)
+![EatCode](./eatcode.gif)
 
 `EatCode` 🍖 is the newest and hottest technical training website for software engineers! Unlike popular competitors like LeetCode, HackerRank, or CodeSignal, our website intends to give our users an immersive experience with our food-themed data structure/algorithmic problems, 3D UI, and relatively fast solution testing. Currently, the website is in the process of being developed by a team of 7 Georgia Tech CS Students in association with [GT Web Dev](https://discord.gg/MzuR4N8kzV).
 
